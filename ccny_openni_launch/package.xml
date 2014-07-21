@@ -1,0 +1,15 @@
+<package>
+<name>ccny_openni_launch</name>
+  <description brief="ccny_openni_launch">
+
+     Helper launch files for OpenNI devices, including data processing, recording, and playback.
+
+  </description>
+  <author>Ivan Dryanovski</author>
+  <license>GPL</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ccny_openni_launch</url>
+
+</package>
+
+

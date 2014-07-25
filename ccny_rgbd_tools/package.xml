@@ -44,7 +44,7 @@
 
   <run_depend>ccny_openni_launch</run_depend>
   <run_depend>ccny_rgbd</run_depend>
-  <run_depend>ccny_rgbd_data</run_Depend>
+  <run_depend>ccny_rgbd_data</run_depend>
   <run_depend>lib_rgbdtools</run_depend>
 
 

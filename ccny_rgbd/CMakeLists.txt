@@ -22,7 +22,7 @@ catkin_package()
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
 
-include($ENV{ROS_ROOT}/core/rosbuild/FindPkgConfig.cmake)
+##include($ENV{ROS_ROOT}/core/rosbuild/FindPkgConfig.cmake)
 
 # Generate services
 rosbuild_gensrv()
